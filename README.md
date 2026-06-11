@@ -26,12 +26,12 @@ The objective of this project is to analyze customer churn behavior in a music s
 <img width="670" height="377" alt="dashboard_image" src="https://github.com/user-attachments/assets/a392e93a-a46f-40b2-aa69-91e52e2d3abe" />
 
 ## Project Insights
-The overall churn rate is approximately 30%, indicating customer retention challenges.
-Users with Free subscription plans show higher churn compared to Premium and Family plans.
-The 18–25 age group has the highest churn rate, making it a high-risk customer segment.
-iOS users exhibit slightly higher churn than Android and Web users.
-Male users contribute more to the total churn count due to a larger user base.
-Subscription plan changes significantly influence customer retention behavior.
+- The overall churn rate is approximately 30%, indicating customer retention challenges.
+- Users with Free subscription plans show higher churn compared to Premium and Family plans.
+- The 18–25 age group has the highest churn rate, making it a high-risk customer segment.
+- iOS users exhibit slightly higher churn than Android and Web users.
+- Male users contribute more to the total churn count due to a larger user base.
+- Subscription plan changes significantly influence customer retention behavior.
 
 ## Final Conclusion
 The Churn Analysis Dashboard provides a comprehensive view of customer retention patterns. The analysis reveals that younger users, free-plan subscribers, and certain device users are more likely to churn. By implementing targeted engagement campaigns, improving user experience, and encouraging upgrades to premium plans, the business can reduce churn and increase customer loyalty. This dashboard enables data-driven decision-making for effective customer retention strategies.
