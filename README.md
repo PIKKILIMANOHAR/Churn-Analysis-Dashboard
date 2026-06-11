@@ -23,4 +23,5 @@ The objective of this project is to analyze customer churn behavior in a music s
 - Generated insights and recommendations based on dashboard findings to support business decisions.
 
 ##Dashboard
-"C:\Users\manoh\OneDrive\Desktop\project\dashboard_image.png"
+<img width="670" height="377" alt="dashboard_image" src="https://github.com/user-attachments/assets/a392e93a-a46f-40b2-aa69-91e52e2d3abe" />
+
