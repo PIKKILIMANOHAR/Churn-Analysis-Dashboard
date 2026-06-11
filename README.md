@@ -14,7 +14,7 @@ The objective of this project is to analyze customer churn behavior in a music s
 - How do payment methods impact customer churn?
 - Which music genre has the highest user count and churn rate?
 
-- Dashboard Interaction <a href="https://github.com/PIKKILIMANOHAR/Churn-Analysis-Dashboard/blob/main/dashboard_image.png"<View Dshboard</a>
+- Dashboard Interaction <a href="https://github.com/PIKKILIMANOHAR/Churn-Analysis-Dashboard/blob/main/dashboard_image.png">View Dshboard</a>
 ## Process
 - Collected and imported the customer dataset into Power BI.
 - Performed data cleaning and transformation using Power Query.
