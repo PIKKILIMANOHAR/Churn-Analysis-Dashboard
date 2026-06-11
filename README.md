@@ -1,2 +1,3 @@
 # Churn-Analysis-Dashboard(Interactive Dashboard creation using Power BI)
-## The objective of this project is to analyze customer churn behavior in a music streaming platform using Power BI. The dashboard helps identify the factors influencing customer attrition based on demographics, subscription plans, device types, payment methods, and user preferences. It provides actionable insights to improve customer retention and business performance.
+## Project Objective
+The objective of this project is to analyze customer churn behavior in a music streaming platform using Power BI. The dashboard helps identify the factors influencing customer attrition based on demographics, subscription plans, device types, payment methods, and user preferences. It provides actionable insights to improve customer retention and business performance.
