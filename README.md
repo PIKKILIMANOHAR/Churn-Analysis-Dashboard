@@ -1,2 +1,2 @@
-# Churn-Analysis-Dashboard
-This Power BI Churn Analysis Dashboard helps analyze customer retention and churn behavior in a music streaming platform. It provides insights into user demographics, subscription plans, device usage, and churn trends through interactive visualizations, enabling data-driven decisions to improve customer retention and business growth.
+# Churn-Analysis-Dashboard(Interactive Dashboard creation using Power BI)
+## The objective of this project is to analyze customer churn behavior in a music streaming platform using Power BI. The dashboard helps identify the factors influencing customer attrition based on demographics, subscription plans, device types, payment methods, and user preferences. It provides actionable insights to improve customer retention and business performance.
