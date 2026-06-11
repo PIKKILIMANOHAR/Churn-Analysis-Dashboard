@@ -22,6 +22,6 @@ The objective of this project is to analyze customer churn behavior in a music s
 - Designed interactive visualizations to analyze churn across different dimensions.
 - Generated insights and recommendations based on dashboard findings to support business decisions.
 
-##Dashboard
+## Dashboard
 <img width="670" height="377" alt="dashboard_image" src="https://github.com/user-attachments/assets/a392e93a-a46f-40b2-aa69-91e52e2d3abe" />
 
